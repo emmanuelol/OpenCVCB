@@ -1,0 +1,17 @@
+
+chapter1/.vs/chapter1/v15/.suo
+*.db
+*.sln
+*.vcxproj
+*.filters
+*.opendb
+*.ipch
+*.bmp
+*.exe
+*.ilk
+*.log
+*.pdb
+*.lastbuildstate
+*.tlog
+*.obj
+*.idb
